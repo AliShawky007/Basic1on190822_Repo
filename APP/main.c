@@ -1,15 +1,17 @@
 
-char arr[]={'a','t','h','y','r'};
+
+
+char* Get_LargestFiveChars(char* arr , int s)
+{
+	//todo
+}
 
 
 int main()
 {
-	char i = 0 , j = 0 , temp;
-
-	for(i = 0 ; i < 5-1 ; i++)
-	{
-		
-	}
+	
+	char arr[]={'S','A','P','O','N','B','C','O'};
+	
 	
 	while(1)
 	{
