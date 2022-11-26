@@ -1,11 +1,10 @@
-
+/*adding comment*/
 
 
 char* Get_LargestFiveChars(char* arr , int s)
 {
 	//todo
-	int i=0;
-	int j=0
+
     int temp=0;
 
 		for (i=0;i<7;i++)
