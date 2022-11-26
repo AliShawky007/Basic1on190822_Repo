@@ -6,10 +6,10 @@ void main (void)
    PORT_voidInit();
    CLCD_voidInit();
 
-
+/*add comment*/
     uint8 Local_u8Array[8]={'S','A','P','O','N','B','C','O'};
    	sint8 Local_s8Counter1=0;
-   	sint8 Local_s8Counter2=0;
+   
    	uint8 Local_u8Temp=0;
 
    	for (Local_s8Counter1=0;Local_s8Counter1<7;Local_s8Counter1++)
