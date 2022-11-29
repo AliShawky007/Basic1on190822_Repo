@@ -28,8 +28,8 @@ int main()
 	
 	char arr[]={'S','A','P','O','N','B','C','O'};
 	
+	int;
 	
-	while(1)
 	{
 	}
 	
